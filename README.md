@@ -10,4 +10,3 @@ This project implements **Automatic Number Plate Recognition (ANPR)** using Open
 - Uses **OpenCV** for image processing and contour detection  
 - Utilizes **EasyOCR** for text extraction  
 - Draws bounding boxes and overlays extracted text on the image  
-- Supports multiple languages (default: English)
